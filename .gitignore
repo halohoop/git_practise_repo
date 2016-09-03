@@ -36,5 +36,11 @@ captures/
 *.iml
 .idea/workspace.xml
 
+# halohoop add
+.halo
+
 # Keystore files
 *.jks
+
+# geditor tmp file
+*~
